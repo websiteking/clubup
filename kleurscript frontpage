@@ -1,5 +1,7 @@
 
 
+//le variables
+
 var div1 = document.getElementById("agendablok");
 var div2 = document.getElementById("agendablokken1");
 var div3 = document.getElementById("agendablokken2");
@@ -94,12 +96,12 @@ var text56 = document.getElementById("eventtijd8");
 var text57 = document.getElementById("categorieen8");
 var text58 = document.getElementById("performers8");
 
+var background = document.getElementById("backgroundimage");
 
 
 
 
-
-
+//le random script
 
 var randomfunctie = [
   functie1, functie2
@@ -108,11 +110,12 @@ var randomfunctie = [
 randomfunctie[Math.floor(Math.random() * randomfunctie.length)]();
 
 
+//de functies
 
-
-
+//medium purple - gold
 function functie1(){
 
+background.style.backgroundImage = url("https://uploads-ssl.webflow.com/5c97db05d784218db4931643/5cf77ce55fb6f7bea7529fb1_CLUBUP_websitebackground_uprepeat_2.png");
 
 div1.style.backgroundColor="#5961a7";
 div2.style.backgroundColor="#5961a7";
@@ -205,7 +208,7 @@ text58.style.color = "#e2ca32";
 
 }
 
-
+//rood - lightblue
 function functie2(){
 
   div1.style.backgroundColor="#e04541";
