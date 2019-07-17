@@ -1,6 +1,5 @@
 
 
-
 //le variables
 
 var div1 = document.getElementById("agendablok");
@@ -313,10 +312,18 @@ function functie2(){
   text56.style.color = "#b3acd5";
   text57.style.color = "#b3acd5";
   text58.style.color = "#b3acd5";
+  text59.style.color = "#b3acd5";
+  text60.style.color = "#b3acd5";
+  text61.style.color = "#b3acd5";
+  text62.style.color = "#b3acd5";
+  text63.style.color = "#b3acd5";
+  text64.style.color = "#b3acd5";
+  text65.style.color = "#b3acd5";
 
 
 
 
 }
+
 
 
