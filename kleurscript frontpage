@@ -1,5 +1,6 @@
 
 
+
 //le variables
 
 var div1 = document.getElementById("agendablok");
@@ -255,49 +256,51 @@ function functie2(){
   text13.style.color = "#b3acd5";
   text14.style.color = "#b3acd5";
   text15.style.color = "#b3acd5";
-  text16.style.color = "#e2ca32";
-  text17.style.color = "#e2ca32";
-  text18.style.color = "#e2ca32";
-  text19.style.color = "#e2ca32";
-  text20.style.color = "#e2ca32";
-  text21.style.color = "#e2ca32";
-  text22.style.color = "#e2ca32";
-  text23.style.color = "#e2ca32";
-  text24.style.color = "#e2ca32";
-  text25.style.color = "#e2ca32";
-  text26.style.color = "#e2ca32";
-  text27.style.color = "#e2ca32";
-  text28.style.color = "#e2ca32";
-  text29.style.color = "#e2ca32";
-  text30.style.color = "#e2ca32";
-  text31.style.color = "#e2ca32";
-  text32.style.color = "#e2ca32";
-  text33.style.color = "#e2ca32";
-  text34.style.color = "#e2ca32";
-  text35.style.color = "#e2ca32";
-  text36.style.color = "#e2ca32";
-  text37.style.color = "#e2ca32";
-  text38.style.color = "#e2ca32";
-  text39.style.color = "#e2ca32";
-  text40.style.color = "#e2ca32";
-  text41.style.color = "#e2ca32";
-  text42.style.color = "#e2ca32";
-  text43.style.color = "#e2ca32";
-  text44.style.color = "#e2ca32";
-  text45.style.color = "#e2ca32";
-  text46.style.color = "#e2ca32";
-  text47.style.color = "#e2ca32";
-  text48.style.color = "#e2ca32";
-  text49.style.color = "#e2ca32";
-  text50.style.color = "#e2ca32";
-  text51.style.color = "#e2ca32";
-  text52.style.color = "#e2ca32";
-  text53.style.color = "#e2ca32";
-  text54.style.color = "#e2ca32";
-  text55.style.color = "#e2ca32";
-  text56.style.color = "#e2ca32";
-  text57.style.color = "#e2ca32";
-  text58.style.color = "#e2ca32";
+  text16.style.color = "#b3acd5";
+  text17.style.color = "#b3acd5";
+  text18.style.color = "#b3acd5";
+  text19.style.color = "#b3acd5";
+  text20.style.color = "#b3acd5";
+  text21.style.color = "#b3acd5";
+  text22.style.color = "#b3acd5";
+  text23.style.color = "#b3acd5";
+  text24.style.color = "#b3acd5";
+  text25.style.color = "#b3acd5";
+  text26.style.color = "#b3acd5";
+  text27.style.color = "#b3acd5";
+  text28.style.color = "#b3acd5";
+  text29.style.color = "#b3acd5";
+  text30.style.color = "#b3acd5";
+  text31.style.color = "#b3acd5";
+  text32.style.color = "#b3acd5";
+  text33.style.color = "#b3acd5";
+  text34.style.color = "#b3acd5";
+  text35.style.color = "#b3acd5";
+  text36.style.color = "#b3acd5";
+  text37.style.color = "#b3acd5";
+  text38.style.color = "#b3acd5";
+  text39.style.color = "#b3acd5";
+  text40.style.color = "#b3acd5";
+  text41.style.color = "#b3acd5";
+  text42.style.color = "#b3acd5";
+  text43.style.color = "#b3acd5";
+  text44.style.color = "#b3acd5";
+  text45.style.color = "#b3acd5";
+  text46.style.color = "#b3acd5";
+  text47.style.color = "#b3acd5";
+  text48.style.color = "#b3acd5";
+  text49.style.color = "#b3acd5";
+  text50.style.color = "#b3acd5";
+  text51.style.color = "#b3acd5";
+  text52.style.color = "#b3acd5";
+  text53.style.color = "#b3acd5";
+  text54.style.color = "#b3acd5";
+  text55.style.color = "#b3acd5";
+  text56.style.color = "#b3acd5";
+  text57.style.color = "#b3acd5";
+  text58.style.color = "#b3acd5";
+
+
 
 
 }
