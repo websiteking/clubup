@@ -229,6 +229,8 @@ text65.style.color = "#e2ca32";
 //rood - lightblue
 function functie2(){
 
+topover.style.backgroundImage = "linear-gradient(0deg, #e04541, hsla(0, 0%, 100%, 0))";
+
   div1.style.backgroundColor="#e04541";
   div2.style.backgroundColor="#e04541";
   div3.style.backgroundColor="#e04541";
@@ -327,7 +329,8 @@ function functie2(){
 
 //dark green - gold
 function functie3(){
-  
+
+topover.style.backgroundImage = "linear-gradient(0deg, #3b8179, hsla(0, 0%, 100%, 0))";
 
   div1.style.backgroundColor="#3b8179";
   div2.style.backgroundColor="#3b8179";
@@ -426,7 +429,9 @@ function functie3(){
 
 //black - pink
 function functie4(){
-  
+
+  topover.style.backgroundImage = "linear-gradient(0deg, #000000, hsla(0, 0%, 100%, 0))";
+
 
   div1.style.backgroundColor="#000000";
   div2.style.backgroundColor="#000000";
@@ -527,8 +532,10 @@ function functie4(){
 
 //dark blue - pink
 function functie5(){
-  
-  div1.style.backgroundColor="#2f378a";
+
+    topover.style.backgroundImage = "linear-gradient(0deg, #2f378a, hsla(0, 0%, 100%, 0))";
+
+    div1.style.backgroundColor="#2f378a";
     div2.style.backgroundColor="#2f378a";
     div3.style.backgroundColor="#2f378a";
     div4.style.backgroundColor="#2f378a";
@@ -554,7 +561,7 @@ function functie5(){
     div24.style.backgroundColor="#2f378a";
     div25.style.backgroundColor="#2f378a";
     div26.style.backgroundColor="#2f378a";
-  
+
     text1.style.color = "#dfabae";
     text2.style.color = "#dfabae";
     text3.style.color = "#dfabae";
@@ -620,10 +627,9 @@ function functie5(){
     text63.style.color = "#dfabae";
     text64.style.color = "#dfabae";
     text65.style.color = "#dfabae";
-  
-  
+
+
 
 }
-
 
 
