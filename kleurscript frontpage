@@ -1,7 +1,4 @@
-<script>
 
-
-//le variables
 
 var div1 = document.getElementById("agendablok");
 var div2 = document.getElementById("agendablokken1");
@@ -102,7 +99,7 @@ var text58 = document.getElementById("performers8");
 
 
 
-//le random script
+
 
 var randomfunctie = [
   functie1, functie2
@@ -111,9 +108,9 @@ var randomfunctie = [
 randomfunctie[Math.floor(Math.random() * randomfunctie.length)]();
 
 
-//de functies
 
-//medium purple - gold
+
+
 function functie1(){
 
 
@@ -208,7 +205,7 @@ text58.style.color = "#e2ca32";
 
 }
 
-//rood - lightblue
+
 function functie2(){
 
   div1.style.backgroundColor="#e04541";
@@ -300,35 +297,5 @@ function functie2(){
 
 }
 
-</script>
 
 
-
-
-#2f378a blue
-
-#e04541 red
-
-#5961a7 medium purple
-
-#3b8179 dark green
-
-#e2ca32 yellow gold
-
-#dfabae pink
-
-#b3acd5 light blue
-
-#000000 black
-
-
-
-medium purple - gold
-
-rood - light blue
-
-dark green - gold
-
-black - pink
-
-dark blue - pink
