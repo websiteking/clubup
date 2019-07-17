@@ -48,6 +48,7 @@ var text13 = document.getElementById("maandpunt2");
 var text14 = document.getElementById("eventtijd2");
 var text15 = document.getElementById("categorieen2");
 var text16 = document.getElementById("performers2");
+var text59 = document.getElementById("ticketknop2");
 
 var text17 = document.getElementById("dag3");
 var text18 = document.getElementById("dagnummer3");
@@ -56,6 +57,7 @@ var text20 = document.getElementById("maandpunt3");
 var text21 = document.getElementById("eventtijd3");
 var text22 = document.getElementById("categorieen3");
 var text23 = document.getElementById("performers3");
+var text60 = document.getElementById("ticketknop3");
 
 var text24 = document.getElementById("dag4");
 var text25 = document.getElementById("dagnummer4");
@@ -64,6 +66,7 @@ var text27 = document.getElementById("maandpunt4");
 var text28 = document.getElementById("eventtijd4");
 var text29 = document.getElementById("categorieen4");
 var text30 = document.getElementById("performers4");
+var text61 = document.getElementById("ticketknop4");
 
 var text31 = document.getElementById("dag5");
 var text32 = document.getElementById("dagnummer5");
@@ -72,6 +75,7 @@ var text34 = document.getElementById("maandpunt5");
 var text35 = document.getElementById("eventtijd5");
 var text36 = document.getElementById("categorieen5");
 var text37 = document.getElementById("performers5");
+var text62 = document.getElementById("ticketknop5");
 
 var text38 = document.getElementById("dag6");
 var text39 = document.getElementById("dagnummer6");
@@ -80,6 +84,7 @@ var text41 = document.getElementById("maandpunt6");
 var text42 = document.getElementById("eventtijd6");
 var text43 = document.getElementById("categorieen6");
 var text44 = document.getElementById("performers6");
+var text63 = document.getElementById("ticketknop6");
 
 var text45 = document.getElementById("dag7");
 var text46 = document.getElementById("dagnummer7");
@@ -88,6 +93,7 @@ var text48 = document.getElementById("maandpunt7");
 var text49 = document.getElementById("eventtijd7");
 var text50 = document.getElementById("categorieen7");
 var text51 = document.getElementById("performers7");
+var text64 = document.getElementById("ticketknop7");
 
 var text52 = document.getElementById("dag8");
 var text53 = document.getElementById("dagnummer8");
@@ -96,6 +102,7 @@ var text55 = document.getElementById("maandpunt8");
 var text56 = document.getElementById("eventtijd8");
 var text57 = document.getElementById("categorieen8");
 var text58 = document.getElementById("performers8");
+var text65 = document.getElementById("ticketknop8");
 
 var background = document.getElementById("backgroundimage");
 
@@ -205,6 +212,13 @@ text55.style.color = "#e2ca32";
 text56.style.color = "#e2ca32";
 text57.style.color = "#e2ca32";
 text58.style.color = "#e2ca32";
+text59.style.color = "#e2ca32";
+text60.style.color = "#e2ca32";
+text61.style.color = "#e2ca32";
+text62.style.color = "#e2ca32";
+text63.style.color = "#e2ca32";
+text64.style.color = "#e2ca32";
+text65.style.color = "#e2ca32";
 
 
 
@@ -304,6 +318,5 @@ function functie2(){
 
 
 }
-
 
 
