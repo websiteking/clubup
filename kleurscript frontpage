@@ -1,6 +1,5 @@
 
 
-
 //le variables
 
 var div1 = document.getElementById("agendablok");
@@ -99,7 +98,7 @@ var text58 = document.getElementById("performers8");
 
 var background = document.getElementById("backgroundimage");
 
-
+var topover = document.getElementById("topoverlay");
 
 
 //le random script
@@ -115,6 +114,8 @@ randomfunctie[Math.floor(Math.random() * randomfunctie.length)]();
 
 //medium purple - gold
 function functie1(){
+
+topover.style.backgroundImage = "linear-gradient(0deg, #5961a7, hsla(0, 0%, 100%, 0))";
 
 background.style.backgroundImage = "url('https://uploads-ssl.webflow.com/5c97db05d784218db4931643/5cf77ce55fb6f7bea7529fb1_CLUBUP_websitebackground_uprepeat_2.png')";
 
@@ -300,5 +301,6 @@ function functie2(){
 
 
 }
+
 
 
