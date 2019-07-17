@@ -1,4 +1,4 @@
-
+<script>
 
 
 //le variables
@@ -12,6 +12,9 @@ var div2 = document.getElementById("footerblok");
 var div3 = document.getElementById("button1");
 var div4 = document.getElementById("button2");
 var div5 = document.getElementById("kleineticketknop");
+var div6 = document.getElementById("sidebarblok1");
+var div7 = document.getElementById("sidebarblok2");
+var div8 = document.getElementById("sidebarblok3");
 
 
 
@@ -27,6 +30,9 @@ var text9 = document.getElementById("titeltag");
 var text10 = document.getElementById("kleineticketknop");
 var text11 = document.getElementById("button1");
 var text12 = document.getElementById("button2");
+var text13 = document.getElementById("sidebarblok1");
+var text14 = document.getElementById("sidebarblok2");
+var text15 = document.getElementById("sidebarblok3");
 
 
 
@@ -50,6 +56,9 @@ div2.style.backgroundColor="#5961a7";
 div3.style.backgroundColor="#3b8179";
 div4.style.backgroundColor="#3b8179";
 div5.style.backgroundColor="#3b8179";
+div6.style.backgroundColor="#3b8179";
+div7.style.backgroundColor="#3b8179";
+div8.style.backgroundColor="#3b8179";
 
 
 text1.style.color = "#e2ca32";
@@ -64,6 +73,10 @@ text9.style.color = "#e2ca32";
 text10.style.color = "#e2ca32";
 text11.style.color = "#e2ca32";
 text12.style.color = "#e2ca32";
+text13.style.color = "#e2ca32";
+text14.style.color = "#e2ca32";
+text15.style.color = "#e2ca32";
+
 
 
 }
@@ -78,6 +91,9 @@ function functie2(){
   div3.style.backgroundColor="#2f378a";
   div4.style.backgroundColor="#2f378a";
   div5.style.backgroundColor="#2f378a";
+  div6.style.backgroundColor="#2f378a";
+  div7.style.backgroundColor="#2f378a";
+  div8.style.backgroundColor="#2f378a";
 
 
   text1.style.color = "#b3acd5";
@@ -92,6 +108,10 @@ function functie2(){
   text10.style.color = "#b3acd5";
   text11.style.color = "#b3acd5";
   text12.style.color = "#b3acd5";
+  text13.style.color = "#b3acd5";
+  text14.style.color = "#b3acd5";
+  text15.style.color = "#b3acd5";
+
 
 }
 
@@ -105,6 +125,10 @@ function functie3(){
   div3.style.backgroundColor="#5961a7";
   div4.style.backgroundColor="#5961a7";
   div5.style.backgroundColor="#5961a7";
+  div6.style.backgroundColor="#5961a7";
+  div7.style.backgroundColor="#5961a7";
+  div8.style.backgroundColor="#5961a7";
+
 
 
   text1.style.color = "#e2ca32";
@@ -119,6 +143,13 @@ function functie3(){
   text10.style.color = "#e2ca32";
   text11.style.color = "#e2ca32";
   text12.style.color = "#e2ca32";
+  text13.style.color = "#e2ca32";
+  text14.style.color = "#e2ca32";
+  text15.style.color = "#e2ca32";
+
+
+
+
 
 }
 
@@ -132,6 +163,9 @@ function functie4(){
   div3.style.backgroundColor="#e04541";
   div4.style.backgroundColor="#e04541";
   div5.style.backgroundColor="#e04541";
+  div6.style.backgroundColor="#e04541";
+  div7.style.backgroundColor="#e04541";
+  div8.style.backgroundColor="#e04541";
 
 
   text1.style.color = "#dfabae";
@@ -146,6 +180,9 @@ function functie4(){
   text10.style.color = "#dfabae";
   text11.style.color = "#dfabae";
   text12.style.color = "#dfabae";
+  text13.style.color = "#dfabae";
+  text14.style.color = "#dfabae";
+  text15.style.color = "#dfabae";
 
 
 }
@@ -160,6 +197,9 @@ function functie5(){
   div3.style.backgroundColor="#000000";
   div4.style.backgroundColor="#000000";
   div5.style.backgroundColor="#000000";
+  div6.style.backgroundColor="#000000";
+  div7.style.backgroundColor="#000000";
+  div8.style.backgroundColor="#000000";
 
 
   text1.style.color = "#dfabae";
@@ -174,9 +214,12 @@ function functie5(){
   text10.style.color = "#dfabae";
   text11.style.color = "#dfabae";
   text12.style.color = "#dfabae";
+  text13.style.color = "#dfabae";
+  text14.style.color = "#dfabae";
+  text15.style.color = "#dfabae";
 
 
 }
 
 
-
+</script>
