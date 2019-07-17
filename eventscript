@@ -1,4 +1,4 @@
-<script>
+
 
 
 //le variables
@@ -26,7 +26,7 @@ var text8 = document.getElementById("text8");
 var text9 = document.getElementById("titeltag");
 var text10 = document.getElementById("kleineticketknop");
 var text11 = document.getElementById("button1");
-var text11 = document.getElementById("button2");
+var text12 = document.getElementById("button2");
 
 
 
@@ -179,4 +179,4 @@ function functie5(){
 }
 
 
-</script>
+
