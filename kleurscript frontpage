@@ -113,7 +113,7 @@ var topover = document.getElementById("topoverlay");
 //le random script
 
 var randomfunctie = [
-  functie1, functie2, functie3
+  functie1, functie2, functie3, functie4, functie5
 ];
 
 randomfunctie[Math.floor(Math.random() * randomfunctie.length)]();
