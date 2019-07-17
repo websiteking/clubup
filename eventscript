@@ -1,4 +1,4 @@
-
+<script>
 
 
 //le variables
@@ -24,7 +24,9 @@ var text6 = document.getElementById("text6");
 var text7 = document.getElementById("text7");
 var text8 = document.getElementById("text8");
 var text9 = document.getElementById("titeltag");
-
+var text10 = document.getElementById("kleineticketknop");
+var text11 = document.getElementById("button1");
+var text11 = document.getElementById("button2");
 
 
 
@@ -59,8 +61,9 @@ text6.style.color = "#e2ca32";
 text7.style.color = "#e2ca32";
 text8.style.color = "#e2ca32";
 text9.style.color = "#e2ca32";
-
-
+text10.style.color = "#e2ca32";
+text11.style.color = "#e2ca32";
+text12.style.color = "#e2ca32";
 
 
 }
@@ -86,8 +89,9 @@ function functie2(){
   text7.style.color = "#b3acd5";
   text8.style.color = "#b3acd5";
   text9.style.color = "#b3acd5";
-
-
+  text10.style.color = "#b3acd5";
+  text11.style.color = "#b3acd5";
+  text12.style.color = "#b3acd5";
 
 }
 
@@ -112,7 +116,9 @@ function functie3(){
   text7.style.color = "#e2ca32";
   text8.style.color = "#e2ca32";
   text9.style.color = "#e2ca32";
-
+  text10.style.color = "#e2ca32";
+  text11.style.color = "#e2ca32";
+  text12.style.color = "#e2ca32";
 
 }
 
@@ -137,9 +143,9 @@ function functie4(){
   text7.style.color = "#dfabae";
   text8.style.color = "#dfabae";
   text9.style.color = "#dfabae";
-
-
-
+  text10.style.color = "#dfabae";
+  text11.style.color = "#dfabae";
+  text12.style.color = "#dfabae";
 
 
 }
@@ -165,9 +171,12 @@ function functie5(){
   text7.style.color = "#dfabae";
   text8.style.color = "#dfabae";
   text9.style.color = "#dfabae";
+  text10.style.color = "#dfabae";
+  text11.style.color = "#dfabae";
+  text12.style.color = "#dfabae";
 
 
 }
 
 
-
+</script>
