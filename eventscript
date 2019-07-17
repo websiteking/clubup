@@ -59,7 +59,7 @@ text6.style.color = "#e2ca32";
 text7.style.color = "#e2ca32";
 text8.style.color = "#e2ca32";
 text9.style.color = "#e2ca32";
-div5.style.color = "#e2ca32";
+
 
 
 
@@ -86,7 +86,7 @@ function functie2(){
   text7.style.color = "#b3acd5";
   text8.style.color = "#b3acd5";
   text9.style.color = "#b3acd5";
-  div5.style.color = "#b3acd5";
+
 
 
 }
@@ -112,7 +112,7 @@ function functie3(){
   text7.style.color = "#e2ca32";
   text8.style.color = "#e2ca32";
   text9.style.color = "#e2ca32";
-  div5.style.color = "#e2ca32";
+
 
 }
 
@@ -137,7 +137,7 @@ function functie4(){
   text7.style.color = "#dfabae";
   text8.style.color = "#dfabae";
   text9.style.color = "#dfabae";
-  div5.style.color = "#dfabae";
+
 
 
 
@@ -165,8 +165,9 @@ function functie5(){
   text7.style.color = "#dfabae";
   text8.style.color = "#dfabae";
   text9.style.color = "#dfabae";
-  div5.style.color = "#dfabae";
+
 
 }
+
 
 
