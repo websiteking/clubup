@@ -1,5 +1,6 @@
 
 
+
 //le variables
 
 var div1 = document.getElementById("agendablok");
@@ -115,7 +116,7 @@ randomfunctie[Math.floor(Math.random() * randomfunctie.length)]();
 //medium purple - gold
 function functie1(){
 
-background.style.backgroundImage = url("https://uploads-ssl.webflow.com/5c97db05d784218db4931643/5cf77ce55fb6f7bea7529fb1_CLUBUP_websitebackground_uprepeat_2.png");
+background.style.backgroundImage = "url('https://uploads-ssl.webflow.com/5c97db05d784218db4931643/5cf77ce55fb6f7bea7529fb1_CLUBUP_websitebackground_uprepeat_2.png')";
 
 div1.style.backgroundColor="#5961a7";
 div2.style.backgroundColor="#5961a7";
@@ -299,6 +300,5 @@ function functie2(){
 
 
 }
-
 
 
