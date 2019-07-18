@@ -1,5 +1,6 @@
 
 
+
 //le variables
 
 var div1 = document.getElementById("agendablok");
@@ -112,7 +113,7 @@ var topover = document.getElementById("topoverlay");
 //le random script
 
 var randomfunctie = [
-  functie1, functie2, functie3, functie4, functie5
+  functie1, functie2, functie3, functie4, functie5, functie6
 ];
 
 randomfunctie[Math.floor(Math.random() * randomfunctie.length)]();
@@ -541,6 +542,110 @@ function functie5(){
     topover.style.backgroundImage = "linear-gradient(0deg, #3b8179, hsla(0, 0%, 100%, 0))";
 
     background.style.backgroundImage = "url('https://uploads-ssl.webflow.com/5c97db05d784218db4931643/5d30682674677af8f01ec9e5_CLUBUP_websitebackground_uprepeat_4.png')";
+
+    div1.style.backgroundColor="#2f378a";
+    div2.style.backgroundColor="#2f378a";
+    div3.style.backgroundColor="#2f378a";
+    div4.style.backgroundColor="#2f378a";
+    div5.style.backgroundColor="#2f378a";
+    div6.style.backgroundColor="#2f378a";
+    div7.style.backgroundColor="#2f378a";
+    div8.style.backgroundColor="#2f378a";
+    div9.style.backgroundColor="#2f378a";
+    div10.style.backgroundColor="#e04541";
+    div11.style.backgroundColor="#e04541";
+    div12.style.backgroundColor="#e04541";
+    div13.style.backgroundColor="#e04541";
+    div14.style.backgroundColor="#e04541";
+    div15.style.backgroundColor="#e04541";
+    div16.style.backgroundColor="#e04541";
+    div17.style.backgroundColor="#e04541";
+    div18.style.backgroundColor="#2f378a";
+    div19.style.backgroundColor="#2f378a";
+    div20.style.backgroundColor="#2f378a";
+    div21.style.backgroundColor="#2f378a";
+    div22.style.backgroundColor="#2f378a";
+    div23.style.backgroundColor="#2f378a";
+    div24.style.backgroundColor="#2f378a";
+    div25.style.backgroundColor="#2f378a";
+    div26.style.backgroundColor="#2f378a";
+
+    text1.style.color = "#dfabae";
+    text2.style.color = "#dfabae";
+    text3.style.color = "#dfabae";
+    text4.style.color = "#dfabae";
+    text5.style.color = "#dfabae";
+    text6.style.color = "#dfabae";
+    text7.style.color = "#dfabae";
+    text8.style.color = "#dfabae";
+    text9.style.color = "#dfabae";
+    text10.style.color = "#dfabae";
+    text11.style.color = "#dfabae";
+    text12.style.color = "#dfabae";
+    text13.style.color = "#dfabae";
+    text14.style.color = "#dfabae";
+    text15.style.color = "#dfabae";
+    text16.style.color = "#dfabae";
+    text17.style.color = "#dfabae";
+    text18.style.color = "#dfabae";
+    text19.style.color = "#dfabae";
+    text20.style.color = "#dfabae";
+    text21.style.color = "#dfabae";
+    text22.style.color = "#dfabae";
+    text23.style.color = "#dfabae";
+    text24.style.color = "#dfabae";
+    text25.style.color = "#dfabae";
+    text26.style.color = "#dfabae";
+    text27.style.color = "#dfabae";
+    text28.style.color = "#dfabae";
+    text29.style.color = "#dfabae";
+    text30.style.color = "#dfabae";
+    text31.style.color = "#dfabae";
+    text32.style.color = "#dfabae";
+    text33.style.color = "#dfabae";
+    text34.style.color = "#dfabae";
+    text35.style.color = "#dfabae";
+    text36.style.color = "#dfabae";
+    text37.style.color = "#dfabae";
+    text38.style.color = "#dfabae";
+    text39.style.color = "#dfabae";
+    text40.style.color = "#dfabae";
+    text41.style.color = "#dfabae";
+    text42.style.color = "#dfabae";
+    text43.style.color = "#dfabae";
+    text44.style.color = "#dfabae";
+    text45.style.color = "#dfabae";
+    text46.style.color = "#dfabae";
+    text47.style.color = "#dfabae";
+    text48.style.color = "#dfabae";
+    text49.style.color = "#dfabae";
+    text50.style.color = "#dfabae";
+    text51.style.color = "#dfabae";
+    text52.style.color = "#dfabae";
+    text53.style.color = "#dfabae";
+    text54.style.color = "#dfabae";
+    text55.style.color = "#dfabae";
+    text56.style.color = "#dfabae";
+    text57.style.color = "#dfabae";
+    text58.style.color = "#dfabae";
+    text59.style.color = "#dfabae";
+    text60.style.color = "#dfabae";
+    text61.style.color = "#dfabae";
+    text62.style.color = "#dfabae";
+    text63.style.color = "#dfabae";
+    text64.style.color = "#dfabae";
+    text65.style.color = "#dfabae";
+
+
+
+}
+
+//dark blue - pink
+function functie6(){
+
+    topover.style.backgroundImage = "linear-gradient(0deg, #000000, hsla(0, 0%, 100%, 0))";
+
+    background.style.backgroundImage = "url('https://uploads-ssl.webflow.com/5c97db05d784218db4931643/5d306856ffc9be2eba81408c_CLUBUP_websitebackground_uprepeat_9.png')";
 
     div1.style.backgroundColor="#2f378a";
     div2.style.backgroundColor="#2f378a";
