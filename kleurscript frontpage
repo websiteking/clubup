@@ -1,6 +1,5 @@
 
 
-
 //le variables
 
 var div1 = document.getElementById("agendablok");
@@ -124,7 +123,7 @@ randomfunctie[Math.floor(Math.random() * randomfunctie.length)]();
 //medium purple - gold
 function functie1(){
 
-topover.style.backgroundImage = "linear-gradient(0deg, #5961a7, hsla(0, 0%, 100%, 0))";
+topover.style.backgroundImage = "linear-gradient(0deg, #e04541, hsla(0, 0%, 100%, 0))";
 
 background.style.backgroundImage = "url('https://uploads-ssl.webflow.com/5c97db05d784218db4931643/5d3067edffc9be5718813fc5_CLUBUP_websitebackground_uprepeat_11.png')";
 
@@ -229,7 +228,7 @@ text65.style.color = "#e2ca32";
 //rood - lightblue
 function functie2(){
 
-topover.style.backgroundImage = "linear-gradient(0deg, #e04541, hsla(0, 0%, 100%, 0))";
+topover.style.backgroundImage = "linear-gradient(0deg, #3b8179, hsla(0, 0%, 100%, 0))";
 
 background.style.backgroundImage = "url('https://uploads-ssl.webflow.com/5c97db05d784218db4931643/5d30680175ae2c61134972a0_CLUBUP_websitebackground_uprepeat_5.png')";
 
@@ -332,7 +331,7 @@ background.style.backgroundImage = "url('https://uploads-ssl.webflow.com/5c97db0
 //dark green - gold
 function functie3(){
 
-topover.style.backgroundImage = "linear-gradient(0deg, #3b8179, hsla(0, 0%, 100%, 0))";
+topover.style.backgroundImage = "linear-gradient(0deg, #5961a7, hsla(0, 0%, 100%, 0))";
 
 background.style.backgroundImage =  "url('https://uploads-ssl.webflow.com/5c97db05d784218db4931643/5cf77ce55fb6f7bea7529fb1_CLUBUP_websitebackground_uprepeat_2.png')";
 
@@ -434,7 +433,7 @@ background.style.backgroundImage =  "url('https://uploads-ssl.webflow.com/5c97db
 //black - pink
 function functie4(){
 
-  topover.style.backgroundImage = "linear-gradient(0deg, #000000, hsla(0, 0%, 100%, 0))";
+  topover.style.backgroundImage = "linear-gradient(0deg, #2f378a, hsla(0, 0%, 100%, 0))";
 
   background.style.backgroundImage = "url('https://uploads-ssl.webflow.com/5c97db05d784218db4931643/5d30681f74677a509b1ec9dd_CLUBUP_websitebackground_uprepeat_13.png')";
 
@@ -539,7 +538,7 @@ function functie4(){
 //dark blue - pink
 function functie5(){
 
-    topover.style.backgroundImage = "linear-gradient(0deg, #2f378a, hsla(0, 0%, 100%, 0))";
+    topover.style.backgroundImage = "linear-gradient(0deg, #3b8179, hsla(0, 0%, 100%, 0))";
 
     background.style.backgroundImage = "url('https://uploads-ssl.webflow.com/5c97db05d784218db4931643/5d30682674677af8f01ec9e5_CLUBUP_websitebackground_uprepeat_4.png')";
 
