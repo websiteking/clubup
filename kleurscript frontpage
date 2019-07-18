@@ -104,18 +104,6 @@ var text57 = document.getElementById("categorieen8");
 var text58 = document.getElementById("performers8");
 var text65 = document.getElementById("ticketknop8");
 
-var text66 = document.getElementById("Mobiletext1");
-var text67 = document.getElementById("Mobiletext2");
-var text68 = document.getElementById("Mobiletext3");
-var text69 = document.getElementById("Mobiletext4");
-var text70 = document.getElementById("Mobiletext5");
-var text71 = document.getElementById("Mobiletext6");
-var text72 = document.getElementById("Mobiletext7");
-var text73 = document.getElementById("Mobiletext8");
-
-
-
-Mobiletext1
 
 var background = document.getElementById("backgroundimage");
 
@@ -232,14 +220,7 @@ text62.style.color = "#e2ca32";
 text63.style.color = "#e2ca32";
 text64.style.color = "#e2ca32";
 text65.style.color = "#e2ca32";
-text66.style.color = "#e2ca32";
-text67.style.color = "#e2ca32";
-text68.style.color = "#e2ca32";
-text69.style.color = "#e2ca32";
-text70.style.color = "#e2ca32";
-text71.style.color = "#e2ca32";
-text72.style.color = "#e2ca32";
-text73.style.color = "#e2ca32";
+
 
 
 
@@ -345,14 +326,6 @@ background.style.backgroundImage = "url('https://uploads-ssl.webflow.com/5c97db0
   text63.style.color = "#b3acd5";
   text64.style.color = "#b3acd5";
   text65.style.color = "#b3acd5";
-  text66.style.color = "#b3acd5";
-  text67.style.color = "#b3acd5";
-  text68.style.color = "#b3acd5";
-  text69.style.color = "#b3acd5";
-  text70.style.color = "#b3acd5";
-  text71.style.color = "#b3acd5";
-  text72.style.color = "#b3acd5";
-  text73.style.color = "#b3acd5";
 
 
 }
@@ -456,14 +429,6 @@ background.style.backgroundImage =  "url('https://uploads-ssl.webflow.com/5c97db
   text63.style.color = "#e2ca32";
   text64.style.color = "#e2ca32";
   text65.style.color = "#e2ca32";
-  text66.style.color = "#e2ca32";
-  text67.style.color = "#e2ca32";
-  text68.style.color = "#e2ca32";
-  text69.style.color = "#e2ca32";
-  text70.style.color = "#e2ca32";
-  text71.style.color = "#e2ca32";
-  text72.style.color = "#e2ca32";
-  text73.style.color = "#e2ca32";
 
 }
 
@@ -567,14 +532,6 @@ function functie4(){
   text63.style.color = "#dfabae";
   text64.style.color = "#dfabae";
   text65.style.color = "#dfabae";
-  text66.style.color = "#dfabae";
-  text67.style.color = "#dfabae";
-  text68.style.color = "#dfabae";
-  text69.style.color = "#dfabae";
-  text70.style.color = "#dfabae";
-  text71.style.color = "#dfabae";
-  text72.style.color = "#dfabae";
-  text73.style.color = "#dfabae";
 
 
 
@@ -679,15 +636,6 @@ function functie5(){
     text63.style.color = "#dfabae";
     text64.style.color = "#dfabae";
     text65.style.color = "#dfabae";
-    text66.style.color = "#dfabae";
-    text67.style.color = "#dfabae";
-    text68.style.color = "#dfabae";
-    text69.style.color = "#dfabae";
-    text70.style.color = "#dfabae";
-    text71.style.color = "#dfabae";
-    text72.style.color = "#dfabae";
-    text73.style.color = "#dfabae";
-
 
 
 }
@@ -791,18 +739,8 @@ function functie6(){
     text63.style.color = "#dfabae";
     text64.style.color = "#dfabae";
     text65.style.color = "#dfabae";
-    text66.style.color = "#dfabae";
-    text67.style.color = "#dfabae";
-    text68.style.color = "#dfabae";
-    text69.style.color = "#dfabae";
-    text70.style.color = "#dfabae";
-    text71.style.color = "#dfabae";
-    text72.style.color = "#dfabae";
-    text73.style.color = "#dfabae";
-
 
 
 }
-
 
 
