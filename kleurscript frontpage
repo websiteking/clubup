@@ -1,7 +1,4 @@
 
-
-
-
   //le variables
 
   var div1 = document.getElementById("agendablok");
@@ -539,7 +536,7 @@
 
   }
 
-  //dark blue - pink
+  //dark blue - pink hier pakt rood em niet op de ticketknoppen
   function functie5(){
 
       topover.style.backgroundImage = "linear-gradient(0deg, #3b8179, hsla(0, 0%, 100%, 0))";
@@ -555,14 +552,14 @@
       div7.style.backgroundColor="#2f378a";
       div8.style.backgroundColor="#2f378a";
       div9.style.backgroundColor="#2f378a";
-      div10.style.backgroundColor="#e04541";
-      div11.style.backgroundColor="#e04541";
-      div12.style.backgroundColor="#e04541";
-      div13.style.backgroundColor="#e04541";
-      div14.style.backgroundColor="#e04541";
-      div15.style.backgroundColor="#e04541";
-      div16.style.backgroundColor="#e04541";
-      div17.style.backgroundColor="#e04541";
+      div10.style.backgroundColor="#5961a7";
+      div11.style.backgroundColor="#5961a7";
+      div12.style.backgroundColor="#5961a7";
+      div13.style.backgroundColor="#5961a7";
+      div14.style.backgroundColor="#5961a7";
+      div15.style.backgroundColor="#5961a7";
+      div16.style.backgroundColor="#5961a7";
+      div17.style.backgroundColor="#5961a7";
       div18.style.backgroundColor="#2f378a";
       div19.style.backgroundColor="#2f378a";
       div20.style.backgroundColor="#2f378a";
@@ -658,14 +655,14 @@
       div7.style.backgroundColor="#2f378a";
       div8.style.backgroundColor="#2f378a";
       div9.style.backgroundColor="#2f378a";
-      div10.style.backgroundColor="#e04541";
-      div11.style.backgroundColor="#e04541";
-      div12.style.backgroundColor="#e04541";
-      div13.style.backgroundColor="#e04541";
-      div14.style.backgroundColor="#e04541";
-      div15.style.backgroundColor="#e04541";
-      div16.style.backgroundColor="#e04541";
-      div17.style.backgroundColor="#e04541";
+      div10.style.backgroundColor="#5961a7";
+      div11.style.backgroundColor="#5961a7";
+      div12.style.backgroundColor="#5961a7";
+      div13.style.backgroundColor="#5961a7";
+      div14.style.backgroundColor="#5961a7";
+      div15.style.backgroundColor="#5961a7";
+      div16.style.backgroundColor="#5961a7";
+      div17.style.backgroundColor="#5961a7";
       div18.style.backgroundColor="#2f378a";
       div19.style.backgroundColor="#2f378a";
       div20.style.backgroundColor="#2f378a";
@@ -744,9 +741,6 @@
 
 
   }
-
-
-
 
 
 
